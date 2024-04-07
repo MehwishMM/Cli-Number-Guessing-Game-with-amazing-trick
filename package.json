@@ -1,6 +1,6 @@
 {
   "name": "mm-number-guessing-game",
-  "version":"1.0.0",
+  "version":"1.1.0",
   "description": "this is a number guessing game",
   "main": "main.js",
   "type": "module",
